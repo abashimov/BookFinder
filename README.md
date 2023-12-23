@@ -26,5 +26,5 @@ The program consists of the following functions:
 Compile and run the program. When prompted, enter the title of the book you want to search for.
 
 # bash
-g++ -std=c++11 BookFinder.cpp
-./Bookfinder
+- g++ -std=c++11 BookFinder.cpp
+- ./Bookfinder
