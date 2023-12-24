@@ -1,4 +1,4 @@
-# BookFinder C++
+# BookFinder C++ (Merge Sort / Binary Search)
 BookFinder program implemented in C++
 
 This C++ program sorts a list of book titles and allows the user to search for a book in the sorted list.
